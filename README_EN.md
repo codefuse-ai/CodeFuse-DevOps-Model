@@ -17,11 +17,11 @@
 </h4>
 </div>
 
+
 DevOps-Model is a Chinese **DevOps large model**, mainly dedicated to exerting practical value in the field of DevOps. Currently, DevOps-Model can help engineers answer questions encountered in the all DevOps life cycle.
 
 Based on the Qwen series of models, we output the **Base** model after additional training with high-quality Chinese DevOps corpus, and then output the **Chat** model after alignment with DevOps QA data. Our Base model and Chat model can achieve the best results among models of the same scale based on evaluation data related to the DevOps fields.
 
-<br>
 At the same time, we are also building an evaluation benchmark [DevOpsEval](https://github.com/codefuse-ai/codefuse-devops-eval) exclusive to the DevOps field to better evaluate the effect of the DevOps field model.
 <br>
 <br>
