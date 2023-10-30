@@ -5,14 +5,14 @@
 </div>
 
 <p align="center">
-🤗 <a href="https://huggingface.co" target="_blank">Hugging Face</a> • 
-🤖 <a href="https://modelscope.cn/" target="_blank">ModelScope</a> </p>
+🤗 <a href="https://huggingface.co/codefuse-ai" target="_blank">Hugging Face</a> • 
+🤖 <a href="https://modelscope.cn/organization/codefuse-ai" target="_blank">ModelScope</a> </p>
 
 <div align="center">
 <h4 align="center">
     <p>
-        <b>中文</b> |
-        <a href="https://github.com/luban-agi/DevOps-Model/main/README.md">English</a>
+        <a href="https://github.com/codefuse-ai/CodeFuse-DevOps-Model/blob/main/README.md">中文</a> |
+	<b>English</b> 
     <p>
 </h4>
 </div>
@@ -36,15 +36,15 @@ Open source models and download links are shown in the table below:
 
 |         | Base Model  | Chat Model | Chat Model(Int4) |
 |:-------:|:-------:|:-------:|:-----------------:|
-| 7B      | [DevOps-Model-7B-Base](https://huggingface.co) | Coming Soon| Coming Soon|
-| 14B     | [DevOps-Model-14B-Base](https://huggingface.co) | Coming Soon| Coming Soon |
+| 7B      | Coming Soon | Coming Soon| Coming Soon|
+| 14B     | Coming Soon | Coming Soon| Coming Soon |
 
 🤖 ModelScope 
 
 |         | Base Model  | Chat Model | Chat Model(Int4) |
 |:-------:|:-------:|:-------:|:-----------------:|
-| 7B      |  [DevOps-Model-7B-Base](https://huggingface.co) | Coming Soon| Coming Soon|
-| 14B     | [DevOps-Model-14B-Base](https://huggingface.co) | Coming Soon| Coming Soon |
+| 7B      |  [DevOps-Model-7B-Base](https://modelscope.cn/models/codefuse-ai/CodeFuse-DevOps-Model-7B-Chat/summary) | [DevOps-Model-7B-Chat](https://modelscope.cn/models/codefuse-ai/CodeFuse-DevOps-Model-7B-Chat/summary) | Coming Soon|
+| 14B     | Coming Soon | Coming Soon | Coming Soon |
 
 
 # Evaluation
