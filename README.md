@@ -35,14 +35,14 @@ DevOps-Model 是一个中文**开发运维大模型**，主要致力于在 DevOp
 
 |         | 基座模型  | 对齐模型 | 对齐模型 Int4 量化 |
 |:-------:|:-------:|:-------:|:-----------------:|
-| 7B      | [DevOps-Model-7B-Base](https://huggingface.co) | [DevOps-Model-7B-Chat](https://huggingface.co) | Coming Soon|
+| 7B      | Coming Soon | Coming Soon | Coming Soon|
 | 14B     | Coming Soon | Coming Soon | Coming Soon |
 
 🤖 ModelScope 地址
 
 |         | 基座模型  | 对齐模型 | 对齐模型 Int4 量化 |
 |:-------:|:-------:|:-------:|:-----------------:|
-| 7B      |  [DevOps-Model-7B-Base](https://huggingface.co) | [DevOps-Model-7B-Chat](https://huggingface.co) | Coming Soon|
+| 7B      |  [DevOps-Model-7B-Base](https://modelscope.cn/models/codefuse-ai/CodeFuse-DevOps-Model-7B-Chat/summary) | [DevOps-Model-7B-Chat](https://modelscope.cn/models/codefuse-ai/CodeFuse-DevOps-Model-7B-Chat/summary) | Coming Soon|
 | 14B     | Coming Soon | Coming Soon | Coming Soon |
 
 
