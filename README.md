@@ -5,14 +5,14 @@
 </div>
 
 <p align="center">
-🤗 <a href="https://huggingface.co" target="_blank">Hugging Face</a> • 
-🤖 <a href="https://modelscope.cn/" target="_blank">ModelScope</a> </p>
+🤗 <a href="https://huggingface.co/codefuse-ai" target="_blank">Hugging Face</a> • 
+🤖 <a href="https://modelscope.cn/organization/codefuse-ai" target="_blank">ModelScope</a> </p>
 
 <div align="center">
 <h4 align="center">
     <p>
         <b>中文</b> |
-        <a href="https://github.com/luban-agi/DevOps-Model/main/README.md">English</a>
+        <a href="https://github.com/codefuse-ai/CodeFuse-DevOps-Model/blob/main/README_EN.md">English</a>
     <p>
 </h4>
 </div>
