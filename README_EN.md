@@ -27,6 +27,7 @@ At the same time, we are also building an evaluation benchmark [DevOpsEval](http
 <br>
 
 # Update
+- [2023.10.31] Open source DevOps-Model-14B Base and Chat models.
 - [2023.10.30] Open source DevOps-Model-7B Base and Chat models.
 
 
@@ -44,7 +45,7 @@ Open source models and download links are shown in the table below:
 |         | Base Model  | Chat Model | Chat Model(Int4) |
 |:-------:|:-------:|:-------:|:-----------------:|
 | 7B      |  [DevOps-Model-7B-Base](https://modelscope.cn/models/codefuse-ai/CodeFuse-DevOps-Model-7B-Chat/summary) | [DevOps-Model-7B-Chat](https://modelscope.cn/models/codefuse-ai/CodeFuse-DevOps-Model-7B-Chat/summary) | Coming Soon|
-| 14B     | Coming Soon | Coming Soon | Coming Soon |
+| 14B     | [DevOps-Model-14B-Base](https://modelscope.cn/models/codefuse-ai/CodeFuse-DevOps-Model-14B-Base/summary) | [DevOps-Model-14B-Chat](https://modelscope.cn/models/codefuse-ai/CodeFuse-DevOps-Model-14B-Chat/summary) | Coming Soon |
 
 
 # Evaluation
