@@ -26,6 +26,7 @@ DevOps-Model 是一个中文**开发运维大模型**，主要致力于在 DevOp
 <br>
 
 # 最新消息
+- [2023.10.31] 开源 DevOps-Model-14B Base 和 Chat 模型。
 - [2023.10.30] 开源 DevOps-Model-7B Base 和 Chat 模型。
 
 
@@ -43,7 +44,7 @@ DevOps-Model 是一个中文**开发运维大模型**，主要致力于在 DevOp
 |         | 基座模型  | 对齐模型 | 对齐模型 Int4 量化 |
 |:-------:|:-------:|:-------:|:-----------------:|
 | 7B      |  [DevOps-Model-7B-Base](https://modelscope.cn/models/codefuse-ai/CodeFuse-DevOps-Model-7B-Chat/summary) | [DevOps-Model-7B-Chat](https://modelscope.cn/models/codefuse-ai/CodeFuse-DevOps-Model-7B-Chat/summary) | Coming Soon|
-| 14B     | Coming Soon | Coming Soon | Coming Soon |
+| 14B     | [DevOps-Model-14B-Base](https://modelscope.cn/models/codefuse-ai/CodeFuse-DevOps-Model-14B-Base/summary) | [DevOps-Model-14B-Chat](https://modelscope.cn/models/codefuse-ai/CodeFuse-DevOps-Model-14B-Chat/summary) | Coming Soon |
 
 
 # 模型评测
