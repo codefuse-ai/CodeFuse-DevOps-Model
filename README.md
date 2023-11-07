@@ -17,7 +17,7 @@
 </h4>
 </div>
 
-DevOps-Model 是首个开源的**中文开发运维大模型**，主要致力于在 DevOps 领域发挥实际价值。目前，DevOps-Model 能够帮助工程师回答在 DevOps 生命周期中遇到的问题。
+DevOps-Model 是一系列业界首个开源的**中文开发运维大模型**，主要致力于在 DevOps 领域发挥实际价值。目前，DevOps-Model 能够帮助工程师回答在 DevOps 生命周期中遇到的问题。
 
 我们基于 Qwen 系列模型，经过高质量中文 DevOps 语料加训后产出 **Base** 模型，然后经过 DevOps QA 数据对齐后产出 **Chat** 模型。我们的 Base 模型和 Chat 模型在开源和 DevOps 领域相关的评测数据上可以取得同规模模型中的**最佳效果**。
 <br>
