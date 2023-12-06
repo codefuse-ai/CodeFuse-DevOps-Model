@@ -26,6 +26,7 @@ DevOps-Model 是一系列业界首个开源的**中文开发运维大模型**，
 <br>
 
 # 最新消息
+- [2023.12.06] 更新 Huggingface 下载地址
 - [2023.10.31] 开源 DevOps-Model-14B Base 和 Chat 模型。
 - [2023.10.30] 开源 DevOps-Model-7B Base 和 Chat 模型。
 
@@ -36,8 +37,9 @@ DevOps-Model 是一系列业界首个开源的**中文开发运维大模型**，
 
 |         | 基座模型  | 对齐模型 | 对齐模型 Int4 量化 |
 |:-------:|:-------:|:-------:|:-----------------:|
-| 7B      | Coming Soon | Coming Soon | Coming Soon|
-| 14B     | Coming Soon | Coming Soon | Coming Soon |
+| 7B      |  [DevOps-Model-7B-Base](https://huggingface.co/codefuse-ai/CodeFuse-DevOps-Model-7B-Base)| [DevOps-Model-7B-Chat](https://huggingface.co/codefuse-ai/CodeFuse-DevOps-Model-7B-Chat) | Coming Soon|
+| 14B     | [DevOps-Model-14B-Base](https://huggingface.co/codefuse-ai/CodeFuse-DevOps-Model-14B-Base) | [DevOps-Model-14B-Chat](https://huggingface.co/codefuse-ai/CodeFuse-DevOps-Model-14B-Chat) | Coming Soon |
+
 
 🤖 ModelScope 地址
 
