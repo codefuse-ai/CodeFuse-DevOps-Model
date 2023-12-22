@@ -19,13 +19,14 @@
 
 DevOps-Model 是一系列业界首个开源的**中文开发运维大模型**，主要致力于在 DevOps 领域发挥实际价值。目前，DevOps-Model 能够帮助工程师回答在 DevOps 生命周期中遇到的问题。
 
-我们基于 Qwen 系列模型，经过高质量中文 DevOps 语料加训后产出 **Base** 模型，然后经过 DevOps QA 数据对齐后产出 **Chat** 模型。我们的 Base 模型和 Chat 模型在开源和 DevOps 领域相关的评测数据上可以取得同规模模型中的**最佳效果**。
+我们基于 Qwen 系列模型，经过高质量中文 DevOps 语料加训后产出 **Base** 模型，然后经过 DevOps QA 数据对齐后产出 **Chat** 模型。我们的 Base 模型和 Chat 模型在开源和 DevOps 领域相关的评测数据上可以取得同规模模型中的**最佳效果**。欢迎来我们部署的在线试用地址试用模型效果：https://modelscope.cn/studios/codefuse-ai/DevOps-Model-Demo/summary
 <br>
 同时我们也在搭建 DevOps 领域专属的评测基准 [DevOpsEval](https://github.com/codefuse-ai/codefuse-devops-eval)，用来更好评测 DevOps 领域模型的效果。
 <br>
 <br>
 
 # 最新消息
+- [2023.12.22] 我们部署了 DevOps-Model 的在线模型问答地址，欢迎试用！！！ https://modelscope.cn/studios/codefuse-ai/DevOps-Model-Demo/summary
 - [2023.12.06] 更新 Huggingface 下载地址
 - [2023.10.31] 开源 DevOps-Model-14B Base 和 Chat 模型。
 - [2023.10.30] 开源 DevOps-Model-7B Base 和 Chat 模型。
