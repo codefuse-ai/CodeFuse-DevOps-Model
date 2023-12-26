@@ -241,10 +241,6 @@ quantized_model.save_quantized(out_dir)
 
 
 
-# 联系我们
-![](https://github.com/codefuse-ai/CodeFuse-DevOps-Model/blob/main/imgs/wechat.png)
-
-
 # 免责声明
 由于语言模型的特性，模型生成的内容可能包含幻觉或者歧视性言论。请谨慎使用 DevOps-Model 系列模型生成的内容。
 如果要公开使用或商用该模型服务，请注意服务方需承担由此产生的不良影响或有害言论的责任，本项目开发者不承担任何由使用本项目（包括但不限于数据、模型、代码等）导致的危害或损失。
