@@ -241,7 +241,7 @@ quantized_model.save_quantized(out_dir)
 
 
 # 联系我们
-![](https://github.com/codefuse-ai/CodeFuse-DevOps-Model/blob/main/imgs/qrcode.png)
+![](https://github.com/codefuse-ai/CodeFuse-DevOps-Model/blob/main/imgs/wechat3.png)
 
 
 # 免责声明
